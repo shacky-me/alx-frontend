@@ -14,3 +14,13 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - How to integrate an audio file in a webpage
 - How to embed external content
 - How to correctly structure an HTML page
+
+## Resources
+## Read or watch:
+
+* [HTML - elements of a web page](https://intranet.alxswe.com/concepts/543)
+* [HTML 5.2](https://html.spec.whatwg.org/multipage/)
+* [HTML: HyperText Markup Language | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [HTML Reference - A free guide to all HTML elements and attributes](https://htmlreference.io/)
+* [Can I use… Support tables for HTML5, CSS3, etc](https://caniuse.com/)
+* [HTML Cheat Sheet - WebsiteSetup](https://websitesetup.org/html5-cheat-sheet/)
