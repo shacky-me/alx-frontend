@@ -339,6 +339,10 @@ ul.row {
   overflow: hidden;
 }
 
+.card-work:hover .card-outer {
+  transform: scale(0.95);
+}
+
 .card-work .card-image img {
   height: 30rem;
   width: 100%;
@@ -398,13 +402,4 @@ ul.row {
   color: #efeded;
   font-size: 10rem;
   z-index: -1;
-}
-
-.card-work:hover .card-image {
-  transform: scale(1.2);
-  transition: var(--transition-duration) var(--transition-cubic-bezier);
-}
-
-.card-work:hover .card-outer {
-  transform: scale(0.95);
 }
