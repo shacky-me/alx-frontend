@@ -215,6 +215,7 @@ button,
 [type="reset"],
 [type="submit"] {
   -webkit-appearance: button;
+  appearance: button; /* Standard property */
 }
 
 /**
@@ -315,6 +316,7 @@ textarea {
 
 [type="search"] {
   -webkit-appearance: textfield;
+  appearance: textfield;         /* Standard property */
   /* 1 */
   outline-offset: -2px;
   /* 2 */
@@ -533,6 +535,7 @@ a:active {
   color: var(--color-primary);
 }
 
+
 [data-section-theme="dark"] {
   --text-color: var(--color-white);
   --section-title-color: var(--color-white);
@@ -697,6 +700,7 @@ ul.row {
   display: block;
   padding: 2rem;
   background-color: var(--color-light-grey);
+  color: var(--color-black);
 }
 
 .card-services a:hover {
@@ -758,6 +762,7 @@ ul.row {
 .nav .nav-link {
   display: block;
   padding: 0.5rem 1rem;
+  color: var(--color-white);
 }
 
 .nav .nav-link::before {
@@ -804,4 +809,12 @@ ul.row {
 
 .footer-address {
   color: var(--text-color);
+}
+
+article h3 a {
+  color: var(--color-black);
+}
+
+.footer-nav-link {
+  color: var(--color-white);
 }
