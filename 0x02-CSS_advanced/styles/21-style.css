@@ -1,4 +1,4 @@
-/* task 20 */
+/* task 21 */
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
 
 /* Document
@@ -203,4 +203,9 @@ ul.row {
   content: "";
   display: table;
   clear: both;
+}
+
+.col- {
+  float: left;
+  padding: 0.5rem;
 }
