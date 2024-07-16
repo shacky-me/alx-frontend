@@ -120,11 +120,11 @@ a:active {
 }
 
 .section-tagline {
-  color: var(--color-primary);
-  margin: var(--section-tagline-margin);
+  background-color: var(--color-primary);
   font-family: var(--font-family-title);
   text-transform: var(--section-tagline-transform);
   font-weight: var(--font-weight-bold);
+  margin: var(--section-tagline-margin);
 }
 
 .container {
@@ -171,7 +171,7 @@ h1, h2, h3, h4, h5, h6 {
   color: var(--nav-item-link-hover);
 }
 
-ul .row {
+ul.row {
   margin: 0;
   padding: 0;
   list-style: none;
