@@ -36,8 +36,8 @@ Remember, creating a responsive website requires careful planning, testing, and 
 
 Read or watch:
 
-- [The building blocks of responsive design - Progressive web apps | MDN](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Responsive)
-- [A pragmatic guide to designing and building responsive web applications | developerlife.com](https://developerlife.com/2019/08/11/a-pragmatic-guide-to-designing-and-building-responsive-web-applications/)
-- [Understanding the difference between mobile-first, adaptive and responsive design](https://www.smashingmagazine.com/2019/08/understanding-difference-mobile-first-adaptive-responsive-design/)
+- [The building blocks of responsive design - Progressive web apps | MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)
+- [A pragmatic guide to designing and building responsive web applications | developerlife.com](https://developerlife.com/2019/08/25/guide-to-building-responsive-web-apps/)
+- [Understanding the difference between mobile-first, adaptive and responsive design](https://fredericgonzalo.com/en/understanding-the-difference-between-mobile-first-adaptive-and-responsive-design/)
 - [LukeW | Mobile First](https://www.lukew.com/ff/entry.asp?933)
-- [Responsive Design Newsletter](https://responsivedesign.is/newsletter/)
+- [Responsive Design Newsletter](https://bytes.dev/?s=rwd)
