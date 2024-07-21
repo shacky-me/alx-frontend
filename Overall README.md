@@ -34,10 +34,23 @@ In this project, I analyzed this website: [https://dev-tools.alx-tools.com/](htt
 
 Read or watch:
 
-- [Chrome DevTools | Tools for Web Developers | Google Developers](https://developer.chrome.com/docs/devtools/)
-- [Introduction | Down and Dirty with Chrome Developer Tools](https://developers.google.com/web/tools/chrome-devtools)
-- [Firefox Developer Tools | MDN](https://developer.mozilla.org/en-US/docs/Tools)
+- [Chrome DevTools | Tools for Web Developers | Google Developers](https://developer.chrome.com/docs/devtools/overview)
+- [Introduction | Down and Dirty with Chrome Developer Tools](https://blittle.github.io/chrome-dev-tools/)
+- [Firefox Developer Tools | MDN](https://firefox-source-docs.mozilla.org/devtools-user/index.html)
 - [Dev Tips - Developer Tips by Umar Hansa](https://umaar.com/dev-tips/)
-- [Get Started With Viewing And Changing CSS | Tools for Web Developers](https://developers.google.com/web/tools/chrome-devtools/css)
+- [Get Started With Viewing And Changing CSS | Tools for Web Developers](https://developer.chrome.com/docs/devtools/css)
 - [Keeping it simple with the JavaScript console - LogRocket Blog](https://blog.logrocket.com/keeping-it-simple-with-the-javascript-console/)
-- [Inspect Network Activity - Chrome DevTools 101](https://developers.google.com/web/tools/chrome-devtools/network)
+- [Inspect Network Activity - Chrome DevTools 101](https://www.youtube.com/watch?v=e1gAyQuIFQo)
+
+#  Advanced HTML
+![TechMeme](https://github.com/user-attachments/assets/2b85936b-ebfc-4c7c-988e-d6f3ca9bd0d8)
+
+## Resources
+
+Read or watch:
+
+- [HTML 5.2](https://html.spec.whatwg.org/multipage/)
+- [HTML: HyperText Markup Language | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [HTML Reference - A free guide to all HTML elements and attributes](https://htmlreference.io/)
+- [Can I use… Support tables for HTML5, CSS3, etc](https://caniuse.com/)
+- [HTML Cheat Sheet - WebsiteSetup](https://websitesetup.org/html5-cheat-sheet/)
